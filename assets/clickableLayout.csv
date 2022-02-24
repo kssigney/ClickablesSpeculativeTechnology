@@ -1,0 +1,6 @@
+ID,Name,PNGFilename,x,y,visible
+0,yellow,assets/yellowbutton.png,100,500,yes
+1,pink,assets/pinkbutton.png,220,500,yes
+2,green,assets/greenbutton.png,340,500,yes
+3,purple,assets/purplebutton.png,100,50,yes
+4,blue,assets/bluebutton.png,300,50,yes
