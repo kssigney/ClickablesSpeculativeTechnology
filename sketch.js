@@ -56,7 +56,8 @@ function setup() {
 // Just draw the button
 function draw() {
   background(128);
-
+  //background image 
+  
 }
 
 // change individual fields of the clickables
